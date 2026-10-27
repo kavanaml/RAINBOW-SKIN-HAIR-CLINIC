@@ -1,0 +1,6 @@
+{
+  "name": "Rainbow Skin & Hair Clinic | Premium Dermatology & Aesthetics",
+  "description": "Official appointment booking and clinical care portal for Rainbow Skin & Hair Clinic in Shivamogga, Karnataka. Advanced dermatology, trichology, laser treatments, and aesthetic procedures by Dr. Bharat Bangera and Dr. Trupti.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
